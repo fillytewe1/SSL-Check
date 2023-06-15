@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tunX/k133Winpn85QJtXOwHlLFlsgkl1fLzylAnVnNZaF3n1dtTUZWj4VBERdocPumdlP93iEXWhdofd1JqDMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tewelde\\Documents\\GitTest\\sslcheck\\SSLZertifikatCheck\\SSLZertifikatCheck\\SSLZertifikatCheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tewelde\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
